@@ -1,5 +1,5 @@
 # Medical Image Detection 
-We will be using Python, Streamlit for front end, and Google’s Gemini Pro Vision model that was released in December, 2023. The user will be able to import medical images, obtain analysis, as well as get recommendations and some pointers regarding treatment.
+We will be using Python, Streamlit for front end, and Google’s Gemini-2.0-pro-exp-02-05. The user will be able to import medical images, obtain analysis, as well as get recommendations and some pointers regarding treatment.
 
 
 
