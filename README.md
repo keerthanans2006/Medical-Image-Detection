@@ -1,7 +1,7 @@
 # Medical Image Detection 
 We will be using Python, Streamlit for front end, and Google’s Gemini-2.0-pro-exp-02-05. The user will be able to import medical images, obtain analysis, as well as get recommendations and some pointers regarding treatment.
 
-https://github.com/keerthanans2006/Medical-Image-Detection/blob/main/Screenshot%20(3).png?raw=true
+https://github.com/keerthanans2006/Medical-Image-Detection/blob/main/Screenshot%20(3).png
 
 ## Setting Up the Project
 First, let’s create a new folder and open it in VS Code. We’ll create two files: api_key.py to hold our API key and app.py to hold our application logic.
@@ -50,6 +50,6 @@ We’ll run the application using Streamlit:
 ```
 streamlit run app.py
 ```
-https://github.com/keerthanans2006/Medical-Image-Detection/blob/main/Screenshot%20(4).png?raw=true
+https://github.com/keerthanans2006/Medical-Image-Detection/blob/main/Screenshot%20(4).png
 
-https://github.com/keerthanans2006/Medical-Image-Detection/blob/main/Screenshot%20(5).png?raw=true
+https://github.com/keerthanans2006/Medical-Image-Detection/blob/main/Screenshot%20(5).png
