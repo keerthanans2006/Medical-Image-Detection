@@ -50,4 +50,4 @@ We’ll run the application using Streamlit:
 ```
 streamlit run app.py
 ```
-
+https://github.com/keerthanans2006/Medical-Image-Detection/blob/main/Screenshot%20(4).png?raw=true
